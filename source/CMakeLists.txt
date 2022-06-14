@@ -1,0 +1,11 @@
+add_library(ssp
+        defs.h
+        Encryption.cpp
+        ITLSSPProc.cpp
+        Random.cpp
+        serialfunc.cpp
+        ThreadedSerialPort.cpp
+        ssp_commands.cpp
+        SSPComs.cpp
+        SSPDownload.cpp
+        strings.hpp)
