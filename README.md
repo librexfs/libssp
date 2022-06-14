@@ -1,4 +1,4 @@
-# OTI Library
+# ITL SSP Library
 
 [![CMake](https://github.com/librexfs/libssp/actions/workflows/cmake.yml/badge.svg)](https://github.com/librexfs/liboti/actions/workflows/cmake.yml)
 
